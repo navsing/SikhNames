@@ -2,26 +2,56 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.gender-ddl {
+  margin-top: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.result {
+  margin-top: 30px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.find-results {
+  margin-top: 40px;
+}
+
+.final-result {
+  margin-top: 40px;
+  font-size: calc(20px + 2vmin);
+  font-weight: lighter;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  color: #000000;
+}
+
+.reset-results {
+  margin-top: 40px;
+}
+
+.ResultBody {
+  margin-top: 30px;
+}
+
+.formControlPicker {
+  width: 50%;
+}
+
+.formControlGender {
+  width: 50%;
+}
+.Title {
+  background-color: #ff42a4;
+  min-height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
 }
 
 .App-link {
