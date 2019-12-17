@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SikhNames/static/css/main.2979ee8c.chunk.css",
+    "main.js": "/SikhNames/static/js/main.f508ba62.chunk.js",
+    "main.js.map": "/SikhNames/static/js/main.f508ba62.chunk.js.map",
+    "runtime-main.js": "/SikhNames/static/js/runtime-main.121ec107.js",
+    "runtime-main.js.map": "/SikhNames/static/js/runtime-main.121ec107.js.map",
+    "static/js/2.52e5cd4d.chunk.js": "/SikhNames/static/js/2.52e5cd4d.chunk.js",
+    "static/js/2.52e5cd4d.chunk.js.map": "/SikhNames/static/js/2.52e5cd4d.chunk.js.map",
+    "index.html": "/SikhNames/index.html",
+    "precache-manifest.fbabebdfddfb14fc5bfbd697a4393e3a.js": "/SikhNames/precache-manifest.fbabebdfddfb14fc5bfbd697a4393e3a.js",
+    "service-worker.js": "/SikhNames/service-worker.js",
+    "static/css/main.2979ee8c.chunk.css.map": "/SikhNames/static/css/main.2979ee8c.chunk.css.map",
+    "static/js/2.52e5cd4d.chunk.js.LICENSE": "/SikhNames/static/js/2.52e5cd4d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.121ec107.js",
+    "static/js/2.52e5cd4d.chunk.js",
+    "static/css/main.2979ee8c.chunk.css",
+    "static/js/main.f508ba62.chunk.js"
+  ]
+}
